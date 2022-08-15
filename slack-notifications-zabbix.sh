@@ -2,11 +2,31 @@
 
 # Slack Notifications for Zabbix
 
-# Vladimir Mikhalev
-# callvaldemar@gmail.com
-# www.heyvaldemar.com
+# Author
+# hey, I’m Vladimir Mikhalev, but my friends call me Valdemar.
 
-# Put the script in the folder /usr/lib/zabbix/alertscripts/ on your Zabbix server
+# My website with detailed IT guides: https://www.heyvaldemar.com/
+# Follow me on YouTube: https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1
+# Follow me on Twitter: https://twitter.com/heyValdemar
+# Follow me on Instagram: https://www.instagram.com/heyvaldemar/
+# Follow me on Facebook: https://www.facebook.com/heyValdemarFB/
+# Follow me on TikTok: https://www.tiktok.com/@heyvaldemar
+# Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
+# Follow me on [GitHub](https://github.com/heyvaldemar)
+
+# Communication
+# Chat with IT pros on Discord: https://discord.com/invite/D7fGMYjdR9
+# Chat with IT pros on Telegram: https://t.me/heyValdemarCOMchat
+# Reach me at ask@sre.gg
+
+# Give Thanks
+# Support on GitHub: https://github.com/sponsors/heyValdemar
+# Support on Patreon: https://www.patreon.com/heyValdemar
+# Support on BuyMeaCoffee: https://www.buymeacoffee.com/heyValdemar
+# Support on Ko-fi: https://ko-fi.com/heyValdemar
+# Support on PayPal: https://www.paypal.com/paypalme/heyValdemarCOM
+
+# Put the script in the folder /usr/lib/zabbix/alertscripts/ on your Zabbix server.
 
 # Zabbix URL (replace with yours)
 zabbix_baseurl="https://zabbix.heyvaldemar.net"
